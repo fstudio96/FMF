@@ -1,0 +1,14 @@
+{
+  "ads": {
+    "id_app": "id_app",
+    "flury_id":"flury_id",
+    "banner": "ca-app-pub-/2672936624",
+    "inter": "ca-app-pub-/",
+    "oppen": "ca-app-pub-/9343593663"
+  },
+  "app_exists": {
+    "id": "",
+     "ads":true
+  },
+ 
+}
